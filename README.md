@@ -5,7 +5,8 @@ Los datos han sido obtenidos de:
 
 https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data?datasetId=1457162&language=Python
 
-Para ello vamos a implementar un Algoritmo de Clasificación, es un algoritmo supervisado qué nos va a permitir realizar predicciones a futuro, las cuales se apoyan en comportamientos o características que existen en los datos históricos que tenemos almacenados. 
+Para ello vamos a implementar un Algoritmo de Clasificación:
+Es un algoritmo supervisado qué nos va a permitir realizar predicciones a futuro, las cuales se apoyan en comportamientos o características que existen en los datos históricos que tenemos almacenados. 
 
 ## Autor
 **Antonio Justicia López**
